@@ -1,2 +1,1 @@
 # SwiZadanie
-zmena
